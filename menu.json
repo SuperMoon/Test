@@ -1,0 +1,276 @@
+
+
+	{
+    "error": {
+        "code": 0,
+        "message": ""
+    },
+    "result": {
+        "banners": [
+            {
+                "page_type": "market",
+                "native_page_params": {
+                    "__placeholder__": 1
+                },
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "闪送超市",
+                "url": "http://m.bqmart.cn/#/mart",
+                "image_path": "http://192.168.199.138/image/w-shansong.png",
+                "meta": null,
+                "name": "",
+                "sort": 300
+            },
+            {
+                "page_type": "webview",
+                "url": "http://m.bqmart.cn/#/fruit/62273/1",
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "水果预定",
+                "image_path": "http://192.168.199.138/image/w-fruit.jpg",
+                "meta": null,
+                "name": "",
+                "sort": 200
+            },
+            {
+                "page_type": "webview",
+                "url": "http://m.bqmart.cn/html/feature/index.html",
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "全球特色",
+                "image_path": "http://192.168.199.138/image/w-feature.jpg",
+                "meta": null,
+                "name": "",
+                "sort": 1
+            },
+            {
+                "page_type": "webview",
+                "url": "http://m.bqmart.cn/html/zt_2/pinganguo.html",
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "苹果",
+                "image_path": "http://192.168.199.138/image/w-sdpingguo.jpg",
+                "meta": null,
+                "name": "",
+                "sort": 1
+            }
+        ],
+        "services": [
+            {
+                "page_type": "webview",
+                "url": "http://m.bqmart.cn/#/fruit/62273/1",
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "水果预定",
+                "image_path": "http://192.168.199.138/image/fruit-banner.jpg",
+                "meta": null,
+                "name": "",
+                "icon": "http://img.bqmart.cn/data/files/store/xinxianyuding.png",
+                "sort": 100
+            },
+            {
+                "page_type": "market",
+                "native_page_params": {
+                    "__placeholder__": 1
+                },
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "闪送超市",
+                "url": "http://m.bqmart.cn/#/mart",
+                "image_path": "",
+                "meta": null,
+                "name": "",
+                "icon": "http://img.bqmart.cn/data/files/store/icon_homeservice_market.png",
+                "sort": 80
+            },
+            {
+                "page_type": "goods_list",
+                "native_page_params": {
+                    "__placeholder__": 1,
+                    "store_id": "79330",
+                    "cate_id": "838"
+                },
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "洗衣干洗",
+                "url": "http://m.bqmart.cn/#/goods/list/79330/838",
+                "image_path": "http://192.168.199.138/image/zq_xiyi.jpg",
+                "meta": null,
+                "name": "",
+                "icon": "http://img.bqmart.cn/upload/icon_homeservice_clouse.png",
+                "sort": 60
+            },
+            {
+                "page_type": "webview",
+                "url": "http://m.bqmart.cn/#/fruit/74294/13",
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "蛋糕预定",
+                "image_path": "http://192.168.199.138/image/dgzq425n.jpg",
+                "meta": null,
+                "name": "",
+                "icon": "http://img.bqmart.cn/upload/icon_homeservice_cake.png",
+                "sort": 40
+            },
+            {
+                "page_type": "goods_list",
+                "native_page_params": {
+                    "__placeholder__": 1,
+                    "store_id": "8805",
+                    "cate_id": "843"
+                },
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "收发快递",
+                "url": "http://m.bqmart.cn/#/goods/list/8805/843",
+                "image_path": "http://192.168.199.138/image/kuaidi.jpg",
+                "meta": null,
+                "name": "",
+                "icon": "http://img.bqmart.cn/upload/icon_homeservice_delivery.png",
+                "sort": 20
+            },
+            {
+                "page_type": "goods_list",
+                "native_page_params": {
+                    "__placeholder__": 1,
+                    "store_id": "66405",
+                    "cate_id": "883"
+                },
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "地域特产",
+                "url": "http://m.bqmart.cn/#/goods/list/66405/883",
+                "image_path": "",
+                "meta": null,
+                "name": "",
+                "icon": "http://img.bqmart.cn/data/files/store/icon_homeservice_special2.png",
+                "sort": 1
+            }
+        ],
+        "advs": [
+            {
+                "page_type": "webview",
+                "url": "http://m.bqmart.cn/activity02.html?store_id=8805&act_id=653",
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "闪电送货",
+                "image_path": "http://192.168.199.138/image/w-1.jpg",
+                "meta": null,
+                "name": "",
+                "icon": "",
+                "sort": 500
+            },
+            {
+                "page_type": "webview",
+                "url": "http://m.bqmart.cn/#/fruit/62273/1",
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "每日必抢",
+                "image_path": "http://192.168.199.138/image/w-2.png",
+                "meta": null,
+                "name": "",
+                "icon": "",
+                "sort": 400
+            },
+            {
+                "page_type": "webview",
+                "url": "http://m.bqmart.cn/#/fruit/74294/13",
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "蛋糕甜点",
+                "image_path": "http://192.168.199.138/image/w-3.png",
+                "meta": null,
+                "name": "",
+                "icon": "",
+                "sort": 350
+            },
+            {
+                "page_type": "goods_list",
+                "native_page_params": {
+                    "__placeholder__": 1,
+                    "store_id": "8805",
+                    "cate_id": "723"
+                },
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "啤酒促销",
+                "url": "http://m.bqmart.cn/#/goods/list/8805/723",
+                "image_path": "http://192.168.199.138/image/w-6.png",
+                "meta": null,
+                "name": "",
+                "icon": "",
+                "sort": 200
+            },
+            {
+                "page_type": "goods_list",
+                "native_page_params": {
+                    "__placeholder__": 1,
+                    "store_id": "8805",
+                    "cate_id": "749"
+                },
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "调味品",
+                "url": "http://m.bqmart.cn/#/goods/list/8805/749",
+                "image_path": "http://192.168.199.138/image/w-9.png",
+                "meta": null,
+                "name": "",
+                "icon": "",
+                "sort": 80
+            },
+            {
+                "page_type": "webview",
+                "url": "http://m.bqmart.cn/activity02.html?store_id=8805&act_id=638",
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "护理",
+                "image_path": "http://192.168.199.138/image/w-7.png",
+                "meta": null,
+                "name": "",
+                "icon": "",
+                "sort": 2
+            },
+            {
+                "page_type": "webview",
+                "url": "http://m.bqmart.cn/activity02.html?store_id=8805&act_id=639",
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "零食",
+                "image_path": "http://192.168.199.138/image/w-5.png",
+                "meta": null,
+                "name": "",
+                "icon": "",
+                "sort": 2
+            },
+            {
+                "page_type": "webview",
+                "url": "http://m.bqmart.cn/activity02.html?store_id=8805&act_id=637",
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "蒙牛促销",
+                "image_path": "http://192.168.199.138/image/w-mengniu.jpg",
+                "meta": null,
+                "name": "",
+                "icon": "",
+                "sort": 2
+            },
+            {
+                "page_type": "goods_list",
+                "native_page_params": {
+                    "__placeholder__": 1,
+                    "store_id": "79330",
+                    "cate_id": "838"
+                },
+                "store_id": 8805,
+                "store_name": "新生活家园附近",
+                "title": "免费洗衣",
+                "url": "http://m.bqmart.cn/#/goods/list/79330/838",
+                "image_path": "http://192.168.199.138/image/w-10.png",
+                "meta": null,
+                "name": "",
+                "icon": "",
+                "sort": 1
+            }
+        ]
+    }
+}

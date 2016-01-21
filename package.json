@@ -1,0 +1,15 @@
+{
+  "name": "navProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.17.0",
+    "react-native-router":"git+https://github.com/t4t5/react-native-router.git",
+    "react-native-swiper":"git+https://github.com/leecade/react-native-swiper.git",
+    "react-native-icons":"0"
+
+  }
+}
